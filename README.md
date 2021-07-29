@@ -1,5 +1,4 @@
-# This project is part of the product RAIOO developed in collaboration with Vitec-MV.
-
+## This project is part of the product RAIOO developed in collaboration with Vitec-MV.
 ## The folders and files in this project consist of the following:
 
 ### testdata:
