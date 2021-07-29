@@ -1,6 +1,6 @@
-This project is part of the product RAIOO developed in collaboration with Vitec-MV.
+# This project is part of the product RAIOO developed in collaboration with Vitec-MV.
 
-The folders and files in this project consist of the following:
+## The folders and files in this project consist of the following:
 
 ### testdata:
 - **goldstandard _(folder)_:** for manually annotated data in txt-files
@@ -9,7 +9,7 @@ The folders and files in this project consist of the following:
 - **output _(folder)_:** for automatically analysed data in txt-files
 
 ### util:
-- **targetwords:**
+- #### **targetwords _(folder)_:**
   - **data _(folder)_:** all the data needed for tagging targetwords with spelling rules
   - **data_formatting _(script)_:** script for formatting the data in the data folder
   - **error_tagging _(script)_:** script for tagging targetwords with rules
@@ -21,4 +21,4 @@ The folders and files in this project consist of the following:
 - **error_analysis _(script)_:** script for the models that analyse the input data
 - **evaluate _(script)_:** script for evaluating the precision and recall of the model
 - **evaluation _(file)_:** file for the results of the evaluation
-- **run_analysis _(script)_:** script for executing the error:analysis and writing the result to a file in testdata/output
+- **run_analysis _(script)_:** script for executing the error_analysis and writing the result to a file in testdata/output
