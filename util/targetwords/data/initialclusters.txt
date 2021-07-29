@@ -1,0 +1,32 @@
+bj	b j	b-bj
+bl	b l	b-bl
+br	b R	b-br
+dr	d R	d-dr
+fj	f j	f-fj
+fl	f l	f-fl
+fr	f R	f-fr
+gl	g l	g-gl
+gn	g n	g-gn
+gr	g R	g-gr
+kl	k l	k-kl
+kn	k n	k-kn
+kr	k R	k-kr
+kv	k v	k-kv
+pl	p l	p-pl
+pr	p R	p-pr
+sk	s g	s-sk
+skr	s g R	sk-skr
+skr	s g R	sr-skr
+sl	s l	s-sl
+sm	s m	s-sm
+sn	s n	s-sn
+sp	s b	s-sp
+spr	s b R	sp-spr
+spr	s b R	sr-spr
+st	s d	s-st
+str	s d R	st-str
+str	s d R	sr-str
+sv	s v	s-sv
+tj	t j	t-tj
+tr	t R	t-tr
+tv	t v	t-tv

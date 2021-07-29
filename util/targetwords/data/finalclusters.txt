@@ -1,0 +1,68 @@
+ft	f d	f-ft
+ft	f d	t-ft
+gl	J l	g-gl
+gl	J l	l-gl
+gn	J n	g-gn
+gn	J n	n-gn
+gs	g s	g-gs
+gs	g s	s-gs
+gt	g d	g-gt
+gt	g d	t-gt
+ks	g s	k-ks
+ks	g s	s-ks
+kst	g s d	ks-kst
+kst	g s d	st-kst
+kst	g s d	kt-kst
+kt	g d	k-kt
+kt	g d	t-kt
+lk	l g	l-lk
+lk	l g	k-lk
+lm	l m	l-lm
+lm	l m	m-lm
+ls	l s	l-ls
+ls	l s	s-ls
+lsk	l s g	ls-lsk
+lsk	l s g	sk-lsk
+lsk	l s g	lk-lsk
+lt	l d	l-lt
+lt	l d	t-lt
+mt	m d	m-mt
+mt	m d	t-mt
+nk	N g	n-nk
+nk	N g	k-nk
+nkt	N d	nk-nkt
+nkt	N d	nt-nkt
+nkt	N d	kt-nkt
+ns	n s	n-ns
+ns	n s	s-ns
+nsk	n s g	ns-nsk
+nsk	n s g	sk-nsk
+nsk	n s g	nk-nsk
+nst	n s d	ns-nst
+nst	n s d	st-nst
+nst	n s d	nt-nst
+nt	n d	n-nt
+nt	n d	t-nt
+rk	C g	r-rk
+rk	C g	k-rk
+rm	C m	r-rm
+rm	C m	m-rm
+rn	C n	r-rn
+rn	C n	n-rn
+rs	C s	r-rs
+rs	C s	s-rs
+rst	C s d	rt-rst
+rst	C s d	st-rst
+rst	C s d	rs-rst
+rt	C d	r-rt
+rt	C d	t-rt
+sk	s g	s-sk
+sk	s g	k-sk
+st	s d	s-st
+st	s d	t-st
+ts	d s	t-ts
+ts	d s	s-ts
+vl	W l	v-vl
+vl	W l	l-vl
+vn	W n	v-vn
+vn	W n	n-vn

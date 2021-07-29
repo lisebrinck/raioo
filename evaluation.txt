@@ -1,0 +1,10 @@
+           Measures
+Precision  0.867299
+Recall     0.938462
+F_measure  0.901478
+--------------------------
+                 Measures
+True positives        183
+False negatives        12
+False positives        28
+True negatives         96

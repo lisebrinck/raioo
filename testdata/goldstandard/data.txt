@@ -1,0 +1,339 @@
+(afstand, arustan)	(ar, a)	(au, af)	(n, nd)
+(aftale, arvtale)	(av, af)	(ar, a)
+(akkurat, accurat)	None
+(akkurat, aguart)	(ar, a)
+(akkurat, agurat)	None
+(akkurat, akurart)	(k, kk)	(ar, a)
+(akkurat, akurat)	(k, kk)
+(akkurat, akuratte)	(tt, t)	(k, kk)
+(akkurat, arkurart)	(ar, a)	(k, kk)
+(akkurat, arkuret)	(k, kk)	(ar, a)
+(apparat, abarat)	None
+(apparat, aberrant)	(rr, r)
+(apparat, apperat)	None
+(automatisk, aftomatisk)	(af, au)
+(automatisk, arutumatisk)	(ar, a)
+(benzin, bensin)	(s, z)
+(bjerg, berg)	(b, bj)
+(bjerg, bjav)	(a, e)	(a, er)
+(bjørn, bjoørn)	None
+(bjørn, bjøen)	(n, rn)
+(blank, black)	(k, nk)
+(blank, blanke)	None
+(blank, lang)	(n, nk)
+(blive, bli)	None
+(blive, blie)	None
+(brag, brau)	(au, ag)
+(brag, brav)	(av, ag)
+(brag, brave)	(av, ag)
+(brevene, bravene)	(ra, re)
+(brylluppet, bryleoped)	(l, ll)	(p, pp)	(o, u)
+(brylluppet, brylerped)	(l, ll)	(p, pp)
+(brylluppet, bryllopet)	(p, pp)	(o, u)
+(brylluppet, bryllup)	(p, pp)
+(brylluppet, bryllupet)	(p, pp)
+(brylluppet, bryluppet)	(l, ll)
+(brylluppet, frølåret)	None
+(camping, kamping)	(k, c)
+(chance, chanse)	(s, c)
+(chance, sjavse)	(sj, ch)
+(denne, den)	(n, nn)
+(denne, dene)	(n, nn)
+(design, defineret)	None
+(design, degsin)	(n, gn)
+(design, designet)	None
+(design, desin)	(n, gn)
+(dig, dag)	(ag, ig)
+(diskussion, diskution)	(tion, ssion)
+(drage, dreng)	None
+(drejede, drage)	(a, e)	(ra, re)	(ag, ej)
+(dreng, drang)	(a, e)	(ra, re)
+(dreng, dreg)	None
+(døgn, don)	(n, gn)	(o, ø)
+(døgn, døvn)	None
+(eftermiddag, eftermidag)	(d, dd)
+(ekko, eko)	(k, kk)
+(ekko, æko)	(æ, e)	(k, kk)
+(ekstra, ekstre)	None
+(ekstra, extra)	(x, ks)
+(ekstra, ægsdere)	(g, k)	(d, t)	(æ, e)	(st, str)
+(engelsk, tysk)	None
+(enkelt, engkelt)	(ng, n)
+(falsk, farlsk)	None
+(filmene, filmen)	None
+(fint, find)	(d, t)
+(fint, findt)	(dt, t)	(nd, n)
+(fjernede, fjerned)	None
+(fjernet, fjerned)	None
+(fjernet, fjernede)	(ede, et)
+(fjernet, fjernt)	None
+(fjernet, tilføjet)	None
+(flytte, flydte)	(dt, tt)
+(foregå, forgå)	(for, fore)
+(foregå, forgår)	(for, fore)
+(forhold, forbehold)	None
+(forhold, forehold)	(fore, for)
+(forhold, forhol)	(l, ld)
+(forklarer, forklare)	(re, rer)
+(fortjene, fortælle)	(t, tj)	(æ, e)
+(frem, fram)	(ra, re)	(a, e)
+(fremragende, ffremrevende)	(ra, re)	(a, e)	(av, ag)
+(gavn, grauvn)	(au, av)
+(gående, gåne)	(n, nd)
+(gevinst, gevindst)	(nd, n)
+(glatte, glate)	(t, tt)
+(glemme, gleme)	(m, mm)
+(godt, got)	(t, dt)
+(grund, begrånd)	(å, u)
+(helt, heldt)	(dt, t)	(ld, l)
+(helt, helte)	None
+(hjørne, bjørne)	None
+(holde, hold)	None
+(hurra, hura)	(r, rr)
+(hvis, vis)	(v, hv)
+(højere, håjer)	(å, ø)	(er, ere)
+(højere, højer)	(er, ere)
+(højere, højre)	None
+(høre, høer)	(er, re)
+(høre, hører)	(rer, re)
+(høre, lave)	None
+(ignorerer, ignorere)	(re, rer)
+(ignorerer, ironer)	(er, rer)
+(imponere, improvisere)	None
+(imponere, impunere)	None
+(imponere, indponeret)	(in, im)
+(imponere, indpunder)	(er, ere)	(in, im)	(nd, n)
+(imponere, inponer)	(er, ere)	(in, im)
+(imponere, inponere)	(in, im)
+(irritere, iriterre)	(r, rr)
+(irritere, iroteger)	(er, ere)	(r, rr)
+(irritere, irretere)	None
+(kampagne, campaing)	(ng, gn)
+(kampagne, champagne)	None
+(kampagne, kampainge)	(ng, gn)
+(kampagne, kampandge)	(ng, gn)
+(kampagne, kampange)	(ng, gn)
+(kampagne, kampanije)	(nj, gn)
+(kampagne, kampanje)	(nj, gn)
+(kampagne, kampenge)	(ng, gn)
+(klubben, klupen)	(p, bb)
+(klubben, kluppen)	(pp, bb)
+(konklusion, komfimasgon)	None
+(konklusion, konklution)	(tion, sion)
+(korrekt, correct)	None
+(korrekt, forkert)	None
+(korrekt, korakt)	(r, rr)	(a, e)
+(korrekt, korekkt)	(r, rr)	(kk, k)
+(korrekt, korekt)	(r, rr)
+(korrekt, korret)	(t, kt)
+(korrekt, korrrekt)	None
+(krig, kre)	None
+(krig, kri)	(i, ig)
+(kræve, kreve)	(re, ræ)	(e, æ)
+(kunst, konst)	(o, u)
+(kunst, kundst)	(ds, s)	(nd, n)
+(kurs, kuers)	None
+(kurs, kurse)	None
+(kvart, kvat)	(a, ar)
+(kvart, kvrat)	None
+(kører, kør)	None
+(kører, køre)	(re, rer)
+(lotto, iåto)	(t, tt)
+(lotto, loto)	(t, tt)
+(lyspunkt, lysepunkt)	None
+(lyspunkt, mørktpunkt)	None
+(læge, lere)	None
+(læge, lære)	None
+(læge, lærer)	None
+(læge, ville)	None
+(lærere, leger)	(er, ere)
+(lærere, læger)	(er, ere)
+(lærere, lære)	None
+(lærere, lærer)	(er, ere)
+(marts, mars)	(s, ts)
+(marts, mats)	(a, ar)
+(mennesker, menensker)	(n, nn)
+(middag, meda)	(d, dd)	(a, ag)	(e, i)
+(middag, medag)	(d, dd)	(e, i)
+(middag, metdag)	(d, dd)	(e, i)
+(middag, mida)	(d, dd)	(a, ag)
+(mission, mision)	(sion, ssion)
+(motto, morto)	(t, tt)	(or, o)
+(motto, moto)	(t, tt)
+(måtte, mote)	(t, tt)	(o, å)
+(måtte, må)	None
+(måtte, mådte)	(dt, tt)
+(mælk, melk)	(e, æ)
+(navn, narn)	(n, vn)	(ar, a)
+(nogen, ingen)	None
+(nogen, nogle)	None
+(nærmer, nærmere)	None
+(offentlige, ofelig)	(f, ff)
+(offentlige, ofentlige)	(f, ff)
+(offentlige, offenlige)	(n, nt)
+(offentlige, offentlig)	None
+(ordsprog, ord)	None
+(ordsprog, ordspørg)	(sp, spr)
+(passager, passagere)	None
+(passager, passasgere)	None
+(pause, parse)	(ar, a)
+(pause, passe)	None
+(pause, prase)	None
+(pege, peje)	(ej, eg)
+(plads, plas)	(s, ds)
+(plads, plras)	(s, ds)
+(pludselig, pludselige)	None
+(pludselig, pluselig)	(s, ds)
+(point, poing)	(ng, nt)
+(point, points)	None
+(point, pølser)	None
+(projekt, prosjegekt)	(sj, j)
+(prøve, prøver)	None
+(psykisk, psygisk)	(g, k)
+(psykisk, psysisk)	None
+(psykisk, syges)	(s, sk)	(s, ps)	(g, k)
+(psykisk, sygisk)	(s, ps)	(g, k)
+(psykisk, sykisk)	(s, ps)
+(rapport, report)	(p, pp)
+(rask, rast)	None
+(regn, meget)	None
+(regn, regne)	None
+(regn, reng)	(n, gn)
+(regn, sol)	None
+(rude, rod)	(o, u)
+(rude, rode)	(o, u)
+(række, rakke)	(a, æ)	(ra, ræ)
+(række, ratte)	(a, æ)	(ra, ræ)
+(røg, røj)	(øj, øg)
+(sagt, sagd)	(d, t)
+(sagt, sargt)	(ar, a)
+(sagtens, sagsen)	(n, ns)	(g, gt)
+(sagtens, saktens)	(k, g)
+(samarbejde, samearbejde)	None
+(samarbejde, samerarbejde)	None
+(samarbejde, sammabejde)	(a, ar)	(mm, m)
+(samarbejde, sammarbejde)	(mm, m)
+(samarbejde, sammebejde)	(mm, m)
+(samarbejde, sloges)	None
+(scenen, senden)	(nd, n)	(s, sc)
+(selv, selge)	None
+(selvfølgelig, selføgelig)	(l, lv)
+(selvfølgelig, selfølgelig)	(l, lv)
+(selvfølgelig, selvføllige)	(ll, l)
+(show, pas)	None
+(show, pasdererdårliglyd)	None
+(show, slope)	None
+(show, sony)	None
+(sikre, sikkre)	(kk, k)
+(silke, selke)	(e, i)
+(silke, slikke)	(kk, k)
+(skaffe, skafe)	(f, ff)
+(skrevet, brand)	None
+(skrevet, skrivet)	None
+(skrive, skriv)	None
+(skubbede, skubber)	None
+(skubbede, skubede)	(b, bb)
+(slags, slak)	(g, gs)	(k, g)
+(slags, slaks)	(k, g)
+(slags, slarks)	(ar, a)	(k, g)
+(slette, sætte)	(s, sl)	(æ, e)
+(slut, stut)	(s, sl)
+(smerte, smærte)	(æ, e)
+(snart, snat)	(a, ar)
+(snuppe, snubbe)	(bb, pp)
+(snuppe, snåppe)	(å, u)
+(solgt, købt)	None
+(speciel, special)	None
+(speciel, spichel)	None
+(speciel, spishel)	None
+(springer, pas)	None
+(springer, sprager)	(a, i)
+(springer, spraner)	(a, i)	(n, ng)
+(spørg, sper)	(r, rg)
+(spørg, spøger)	None
+(spørgsmål, spøgsmål)	None
+(spørgsmål, spørgelsmål)	None
+(spørgsmål, spørgesmål)	None
+(stakkels, seje)	None
+(stakkels, stakels)	(k, kk)
+(stakkels, stakkelse)	None
+(stakkels, starkels)	(k, kk)	(ar, a)
+(store, stor)	None
+(stribe, pas)	None
+(stribe, strebe)	None
+(stribe, strepe)	(p, b)
+(stribe, strippe)	(pp, b)
+(stribe, støst)	(st, str)
+(strække, sdrakke)	(ra, ræ)	(d, t)	(a, æ)
+(strække, strejke)	(e, æ)
+(stærk, skærk)	None
+(stærk, slap)	(s, st)
+(stærk, stræk)	(k, rk)
+(succes, cyske)	(k, c)	(y, u)	(s, c)
+(succes, succese)	None
+(succes, sucess)	None
+(succes, sykse)	(k, c)	(y, u)	(s, c)
+(svajede, svagede)	(ag, aj)
+(svajede, svejede)	(ej, aj)
+(svaret, med)	None
+(svaret, sard)	(s, sv)
+(svaret, svared)	None
+(svaret, svarede)	None
+(svensk, engelsk)	None
+(sygdomme, sydomme)	(y, yg)
+(sygdomme, sygedome)	(m, mm)
+(synge, se)	None
+(synge, sygne)	None
+(søge, søe)	(ø, øg)
+(søge, søje)	(ø, øg)
+(takt, halen)	None
+(tegner, har)	None
+(tegner, tarner)	(n, gn)	(ar, e)
+(tegner, tenger)	(n, gn)
+(tekst, test)	(st, kst)	(s, ks)
+(tekst, text)	(x, ks)
+(tekst, tæsk)	(æ, e)	(s, ks)
+(tidligere, senere)	None
+(tidligere, tideligere)	None
+(tidligere, tidliger)	(er, ere)
+(tidligere, ´tidligere)	None
+(tilskuere, tilskuer)	(er, ere)
+(tilskuere, tilskurer)	(er, ere)
+(tjener, har)	None
+(tjener, tgener)	(t, tj)
+(tog, to)	(o, og)
+(tog, tong)	(o, og)
+(tomt, themt)	None
+(tradition, tradotion)	None
+(travl, sløv)	None
+(travl, tralv)	(l, vl)
+(travl, travel)	None
+(travl, travle)	None
+(tryk, truk)	None
+(tryk, tråk)	None
+(trådte, tråde)	None
+(trådte, tråtte)	(tt, dt)
+(træ, tæa)	(t, tr)
+(tvivl, tvil)	(l, vl)
+(tværs, tavs)	(t, tv)	(a, æ)
+(tværs, tvers)	(e, æ)
+(tårer, sand)	None
+(tårer, tor)	None
+(tårer, tore)	(re, rer)
+(tårer, tåre)	(re, rer)
+(tårer, tårere)	None
+(tårer, tårre)	(re, rer)
+(tænkt, tengt)	(e, æ)
+(tænkt, tingt)	None
+(uge, unge)	(u, ug)
+(uge, uunge)	(u, ug)
+(valg, vand)	None
+(valg, varl)	(lg, l)
+(vej, varj)	(ar, e)
+(vidste, hviste)	(s, ds)	(hv, v)
+(værst, varst)	(a, æ)
+(øjne, øjenbryn)	None
+(øjne, øjnen)	None
+(ører, øer)	(er, rer)
+(ører, øje)	None
+(ører, øre)	(re, rer)
