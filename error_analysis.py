@@ -63,11 +63,13 @@ def model_2(wordpair, wordlist):
                         matches.append(rule)
 
                 if rule[1] in ends:
+                    #these letter combinations must appear at the end of the word
                     if (wordpair[1].endswith(rule[0]) 
                     and not wordpair[1].endswith(rule[1])):
                         matches.append(rule)
 
                 if rule[1] in starts:
+                    #these letter combinations must appear at the start of the word
                     if (wordpair[1].startswith(rule[0]) 
                     and not wordpair[1].startswith(rule[1])):
                         matches.append(rule)
